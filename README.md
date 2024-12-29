@@ -6,4 +6,4 @@
 - 🤝 Lets Connect on [LinkedIn](https://www.linkedin.com/in/benjamin-lee300)
 - 💻 Learn more about me on [my website](https://minseoklee.oopy.io/)!
 
-[![Minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=mslee300](https://github.com/mslee300/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mslee300)](https://github.com/anuraghazra/github-readme-stats)
